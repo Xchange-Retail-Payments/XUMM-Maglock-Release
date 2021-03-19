@@ -1,4 +1,12 @@
+/*
+ * Created by ArduinoGetStarted.com
+ *
+ * This example code is in the public domain
+ *
+ * Tutorial page: https://arduinogetstarted.com/tutorials/arduino-relay
+ */
 
+// constants won't change
 const int RELAY_PIN = 3;  // the Arduino pin, which connects to the IN pin of relay
 
 // OLED Screen for QR code
