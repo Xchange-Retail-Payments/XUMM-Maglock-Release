@@ -9,9 +9,9 @@ Maglock
 12v power source, (becareful if using mains power)
 OLED Screen
 
-![Image of Arduino Maglock]
 
-(/public/images/Xumm%20MAglock%20Release.jpg)
+
+(/public/images/Xumm MAglock Release.jpg)
 
 Use the wiring Diagrams above to connect the Ardunio to the relay/maglock and ole, using the above wiring JPG.
 
