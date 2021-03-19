@@ -10,7 +10,8 @@ Maglock
 OLED Screen
 
 ![Image of Arduino Maglock]
-(https://github.com/rslater12/XUMM-Maglock-Release/blob/main/Maglock/public/images/xummlogo/Xumm%20MAglock%20Release.jpg)
+
+(/public/images/Xumm%20MAglock%20Release.jpg)
 
 Use the wiring Diagrams above to connect the Ardunio to the relay/maglock and ole, using the above wiring JPG.
 
