@@ -11,7 +11,7 @@ OLED Screen
 
 
 
-(Maglock/public/images/Xumm%20MAglock%20Release.jpg)
+![](Maglock/public/images/Xumm%20MAglock%20Release.jpg)
 
 Use the wiring Diagrams above to connect the Ardunio to the relay/maglock and ole, using the above wiring JPG.
 
